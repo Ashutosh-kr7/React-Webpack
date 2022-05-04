@@ -1,5 +1,5 @@
 const Header = () => {
-  return <h2>React Typescript Webpack Header</h2>;
+  return <h2>React Typescript Webpack Header Config</h2>;
 };
 
 export default Header;
