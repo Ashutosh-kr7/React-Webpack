@@ -1,8 +1,8 @@
 import Header from "./components/Header";
 export const App = () => {
   return (
-    <h3>
+    <h2>
       <Header />
-    </h3>
+    </h2>
   );
 };
